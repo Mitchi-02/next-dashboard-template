@@ -1,1 +1,1 @@
-# ERP FRONT
+# Next.JS Admin Dashboard Template
